@@ -1,13 +1,17 @@
 #include "Triangle.h"
 
 Triangle::Triangle() {
+	this->str1 = 3;
+	this->str2 = 4;
 	Find();
+	CountTriangl();
 }
 Triangle::Triangle(double str1, double str2, double angle) {
 	this->str1 = str1;
 	this->str2 = str2;
 	this->angle = angle;
 	Find();
+	CountTriangl();
 }
 void Triangle::Find() {
 	str3 = sqrt(str1 * str1 + str2 * str2 - 2 * str1 * str2 * cos(angle));
@@ -35,13 +39,21 @@ void Triangle::SetAngle(double angle) {
 		this->angle = angle;
 	}
 	else {
-		cout << "”гол не может быть меньше 0 и больше 180 градусов." << endl;
+		cout << "”гол не может быть меньше 0 и больше 180 градусов или у ¬ас он не указан." << endl;
 		this->angle = 52;
 	}
 }
 void Triangle::SetStr1(double str1) {
 	this->str1 = str1;
+	Find();
 }
 void Triangle::SetStr2(double str2) {
 	this->str2 = str2;
+	Find();
 }
+void Triangle::CountTriangl() {
+	++count;
+	cout << "—оздано " << count << " объект(а)" << endl;
+}
+Triangle::~Triangle() {}
+

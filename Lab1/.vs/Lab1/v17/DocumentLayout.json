@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +36,10 @@
               "RelativeDocumentMoniker": "Lab1\\Triangle.cpp",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Triangle.cpp",
               "RelativeToolTip": "Lab1\\Triangle.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-03T06:27:05.052Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Lab1\\Triangle.h",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Triangle.h",
               "RelativeToolTip": "Lab1\\Triangle.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-02T12:03:52.325Z",
               "EditorCaption": ""
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "Lab1\\Lab1.cpp",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Lab1.cpp",
               "RelativeToolTip": "Lab1\\Lab1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-02T12:02:39.058Z",
               "EditorCaption": ""

@@ -8,9 +8,10 @@ private:
 	double str2;
 	double str3;
 	double angle;
+	static int count;
 	void Find();
 public:
-	Triangle() : Triangle(3, 4, 90) {};
+	Triangle();
 	Triangle(double str1, double str2, double angle);
 	double GetAngle();
 	double GetStr1();
@@ -20,5 +21,7 @@ public:
 	void SetAngle(double angle);
 	void SetStr1(double str1);
 	void SetStr2(double str2);
+	void CountTriangl();
+	~Triangle();
 };
 
