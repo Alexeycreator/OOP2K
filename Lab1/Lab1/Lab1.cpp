@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include "Triangle.h"
+#include "Pyramid.h"
 using namespace std;
 
 int Triangle::count;
@@ -7,7 +8,8 @@ int Triangle::count;
 int main()
 {
 	setlocale(LC_ALL, "rus");
-	const int size = 2;
+	//1 лабораторная работа
+	/*const int size = 2;
 	Triangle triangle1;
 	//с конструктором по умолчанию
 	cout << "Сторона 1 треугольника = " << triangle1.GetStr1() << endl;
@@ -44,5 +46,33 @@ int main()
 	}
 	cout << "Сумма всех площадей = " << sumS << endl;
 	Triangle* triangle3 = new Triangle[size]{};
-	delete[] triangle3;
+	delete[] triangle3;*/
+	//2 лабораторная работа
+	cout << "\n2 лабораторная работа." << endl;
+	Triangle triangle4;
+	Triangle triangle5(5, 12, 9);
+	triangle4.Print();
+	triangle5.Print();
+	//сумма и разность площадей
+	cout << "\nСумма и разность площадей:" << endl;
+	cout << "Сумма = " << triangle4.Area() + triangle5.Area() << endl;
+	cout << "Разность = " << triangle4 - triangle5 << endl;
+	//масштабирование треуголника
+	cout << "\nМасштабирование треуголника:" << endl;
+	Triangle triangle6 = triangle5 * 2;
+	triangle6.Print();
+	//изменение значений угла
+	cout << "\nИзменение значений угла:" << endl;
+	Triangle triangle8 = --triangle4;
+	triangle8.Print();
+	Triangle triangle9 = ++triangle4;
+	triangle9.Print();
+	triangle4.operator++(1);
+	triangle4.Print();
+
+	//Pyramid p1;
+	//p1.Print();
+	//p1.PrintPyramid();
+	//cout << "----------------" << endl;
+	//p1.PrintValueV();
 }

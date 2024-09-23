@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Pyramid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D181ED-0CD0-458A-91BA-C4BB6B89A10F}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Pyramid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pyramid.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Pyramid.cpp",
+              "RelativeDocumentMoniker": "Lab1\\Pyramid.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Pyramid.cpp",
+              "RelativeToolTip": "Lab1\\Pyramid.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T19:26:09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pyramid.h",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Pyramid.h",
+              "RelativeDocumentMoniker": "Lab1\\Pyramid.h",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Pyramid.h",
+              "RelativeToolTip": "Lab1\\Pyramid.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-15T19:17:02.368Z"
             },
             {
               "$type": "Document",
@@ -36,33 +68,32 @@
               "RelativeDocumentMoniker": "Lab1\\Triangle.cpp",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Triangle.cpp",
               "RelativeToolTip": "Lab1\\Triangle.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAD4v2EAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-03T06:27:05.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Triangle.h",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Triangle.h",
               "RelativeDocumentMoniker": "Lab1\\Triangle.h",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Triangle.h",
               "RelativeToolTip": "Lab1\\Triangle.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-02T12:03:52.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:03:52.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Lab1.cpp",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Lab1.cpp",
               "RelativeDocumentMoniker": "Lab1\\Lab1.cpp",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\OOP2K\\Lab1\\Lab1\\Lab1.cpp",
               "RelativeToolTip": "Lab1\\Lab1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwEEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-02T12:02:39.058Z",
               "EditorCaption": ""
